@@ -6,7 +6,7 @@ api_hash = "304ec89622dc2ede528971d19f14087b"
 phone = "+994707909291"
 
 # The channels/groups that you want to get messages from
-source_channel_names = ['FRI® VIP', 'Binance Killers® VIP Signals', 'Bitcoin Bullets® VIP', 'Fed. Russian Insiders®', 'Bitcoin Bullets®', 'Binance Killers®']
+source_channel_names = ['FRI® VIP', 'Binance Killers® VIP Signals', 'Bitcoin Bullets® VIP', 'Fed. Russian Insiders®', 'Bitcoin Bullets®', 'Binance Killers®','test 01']
 ##
 # The channel/group where you want to forward messages
 destination_channel_link = -1002145629944
